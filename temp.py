@@ -9,7 +9,6 @@ from datetime import datetime
 logging.basicConfig(filename='/var/log/temp.log', level=logging.INFO)
 path = '/sys/bus/w1/devices'
 login = 'tbell@tombellnj.com'
-passwd = '&lu4ri$m'
 metric_name = 'temp_data'
 
 
